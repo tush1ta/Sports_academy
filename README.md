@@ -50,7 +50,7 @@ Main Repository:(https://github.com/tush1ta/Sports_academy)
 ## PROGRAM OUTPUT
 
 ![Program Output]
-[1](https://github.com/tush1ta/Sports_academy/blob/main/sports_academy.png)
+[Output](https://github.com/tush1ta/Sports_academy/blob/main/sports_academy.png)
 
 ---
 
@@ -90,5 +90,5 @@ gcc sports_academy.c -o sports_academy
 Tushita Sharma
 SAP ID: 590029121  
 
-GitHub Profile:  
+GitHub Profile:  https://github.com/tush1ta/Sports_academy
 
