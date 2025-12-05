@@ -33,28 +33,30 @@ Each student record stores:
 
 ## REPOSITORY LINK
 
-Main Repository:  
+Main Repository:(https://github.com/tush1ta/Sports_academy)  
 
 
 ---
 
 ## PROJECT FILES (DIRECT LINKS)
 
-- [sports_academy.c]
-- [students.dat]
-- [sports_academy.png]
-- [a.out]
+- [sports_academy.c](https://github.com/tush1ta/Sports_academy/blob/main/sports_academy.c)
+- [students.dat](https://github.com/tush1ta/Sports_academy/blob/main/students.dat)
+- [sports_academy.png](https://github.com/tush1ta/Sports_academy/blob/main/sports_academy.png)
+  
 
 ---
 
 ## PROGRAM OUTPUT
 
 ![Program Output]
+[1](https://github.com/tush1ta/Sports_academy/blob/main/sports_academy.png)
 
 ---
 
 ## HOW TO COMPILE AND RUN
 gcc sports_academy.c -o sports_academy
+
 ./sports_academy
 
 
